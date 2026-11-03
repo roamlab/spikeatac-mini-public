@@ -1,0 +1,50 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\spikeatac_mini_rigid_v3_board2\Project Outputs for spikeatac_mini_rigid_v3_board2\Pick Place for PCB_board2.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       26/07/26
+Time:       15:27
+Revision:   bfb1abe3a7817e6c54cebf8f2f3a8595d474ce48
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"U4","REF3325AIRSER","TopLayer","FP-RSE0008A-MFG","32.4250","28.7750","90","Three Terminal Voltage Reference, 1 Output, 2.5V, BIPolar, PQCC8"
+"R5","RC0201FR-0710KL","BottomLayer","RESC0603X26N","32.1875","38.0500","180","10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
+"R11","RC0201FR-0710KL","BottomLayer","RESC0603X26N","34.5875","25.9000","180","10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
+"R7","RC0201FR-0710KL","TopLayer","RESC0603X26N","27.2250","41.8375","90","10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
+"R9","RC0201FR-0710KL","BottomLayer","RESC0603X26N","30.8125","31.4750","0","10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
+"R10","RC0201FR-0710KL","TopLayer","RESC0603X26N","32.9000","32.5875","90","10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
+"R6","RC0201FR-0710KL","TopLayer","RESC0603X26N","27.2000","39.9125","270","10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
+"R12","RC0201FR-0710KL","TopLayer","RESC0603X26N","33.9375","29.8500","180","10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
+"R8","RC0201FR-0710KL","BottomLayer","RESC0603X26N","32.6950","43.3075","90","10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
+"R3","RC0201FR-0710KL","TopLayer","RESC0603X26N","29.3875","42.3250","0","10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
+"R1","RC0201FR-0710KL","TopLayer","RESC0603X26N","30.2000","38.3125","90","10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
+"R2","RC0201FR-0710KL","TopLayer","RESC0603X26N","27.4875","38.1500","180","10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
+"R4","RC0201FR-0710KL","BottomLayer","RESC0603X26N","31.0375","43.8750","0","10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
+"C15","CL03A105KQ3CSNH","TopLayer","CAPC0603X35N","28.1750","31.4750","180","1 µF ±10% 6.3V Ceramic Capacitor X5R 0201 (0603 Metric)"
+"C2","CL03A104KP3NNNC","BottomLayer","CAPC0603X33N","29.2500","43.7750","180","0.1 µF ±10% 10V Ceramic Capacitor X5R 0201 (0603 Metric)"
+"C1","CL03A104KP3NNNC","BottomLayer","CAPC0603X33N","29.2750","38.0750","0","0.1 µF ±10% 10V Ceramic Capacitor X5R 0201 (0603 Metric)"
+"C18","Capacitor 10�F +/-40% 6.3V 0402","TopLayer","CAPC0402(1005)60_L","25.0250","26.2000","270","Chip Capacitor, 10�F +/-40%, 6.3V, 0402, Thickness 0.6 mm"
+"C3","CL03A105KQ3CSNH","BottomLayer","CAPC0603X35N","25.4500","29.0250","180","1 µF ±10% 6.3V Ceramic Capacitor X5R 0201 (0603 Metric)"
+"C17","CL03A105KQ3CSNH","TopLayer","CAPC0603X35N","25.5000","31.4500","270","1 µF ±10% 6.3V Ceramic Capacitor X5R 0201 (0603 Metric)"
+"C7","CL03A105KQ3CSNH","TopLayer","CAPC0603X35N","32.4250","30.2250","0","1 µF ±10% 6.3V Ceramic Capacitor X5R 0201 (0603 Metric)"
+"C8","CL03A105KQ3CSNH","TopLayer","CAPC0603X35N","32.3750","25.7250","0","1 µF ±10% 6.3V Ceramic Capacitor X5R 0201 (0603 Metric)"
+"C16","CL03A105KQ3CSNH","TopLayer","CAPC0603X35N","26.8400","26.0000","0","1 µF ±10% 6.3V Ceramic Capacitor X5R 0201 (0603 Metric)"
+"C4","CL03A105KQ3CSNH","BottomLayer","CAPC0603X35N","28.2250","27.1250","180","1 µF ±10% 6.3V Ceramic Capacitor X5R 0201 (0603 Metric)"
+"C6","CL03A105KQ3CSNH","BottomLayer","CAPC0603X35N","28.4000","30.6750","90","1 µF ±10% 6.3V Ceramic Capacitor X5R 0201 (0603 Metric)"
+"C5","CL03A105KQ3CSNH","BottomLayer","CAPC0603X35N","25.6500","29.6000","0","1 µF ±10% 6.3V Ceramic Capacitor X5R 0201 (0603 Metric)"
+"C14","GRM033R61A225KE47D","BottomLayer","CAPC0603X33N","34.4500","31.9500","270","SMD capacitor X5R(EIA) with capacitance 2.2uF Tol.10%. Rated voltage 10Vdc 85C"
+"C13","GRM033R61A225KE47D","TopLayer","CAPC0603X33N","30.0250","41.4000","0","SMD capacitor X5R(EIA) with capacitance 2.2uF Tol.10%. Rated voltage 10Vdc 85C"
+"C12","GRM033R61A225KE47D","TopLayer","CAPC0603X33N","30.0000","40.8000","0","SMD capacitor X5R(EIA) with capacitance 2.2uF Tol.10%. Rated voltage 10Vdc 85C"
+"C11","GRM033R61A225KE47D","BottomLayer","CAPC0603X33N","32.2250","32.2250","270","SMD capacitor X5R(EIA) with capacitance 2.2uF Tol.10%. Rated voltage 10Vdc 85C"
+"C9","CL03A104KP3NNNC","BottomLayer","CAPC0603X33N","32.3250","31.1000","180","0.1 µF ±10% 10V Ceramic Capacitor X5R 0201 (0603 Metric)"
+"J2","Molex 513389974 (receptacle)","TopLayer","Molex_513389974-Footprint-1","30.0000","34.7500","90","SlimStack Board-to-Board Receptacle, 0.40mm Pitch, J-Bend Series, 0.20�m Gold (Au) Plating, 1.50 or 2.00mm Mated Height, 3.40mm Mated Width, 12 Circuits"
+"U2","LP5907MFX-2.5/NOPB","BottomLayer","SOT95P280X145-5N","26.8750","27.4250","0","250-mA, low-noise, high-PSRR, ultra-low-dropout voltage regulator with low IQ and enable"
+"U3","XC6902N251MR-G","BottomLayer","SOT95P245X110-3N","26.9750","30.7000","180","LDO Voltage Regulators -16V Input 3 Terminals Negative Voltage Regulator"
+"U6","ADS7950SBRGET","TopLayer","QFN50P400X400X100-25N","27.8650","28.7000","90","12 bit, 1 MSPS, 4 ch, single ended, micro power, sr i/f, SAR ADC"
+"U1","ADA4691-4ACPZ-R2","BottomLayer","CP_16_22_ADI","30.3250","40.8750","90","Low Power, 3.6 MHz, Low Noise, Rail-to-Rail Output, Operational Amplifiers. Equivalent to -R7 version"
+"U5","ADA4691-4ACPZ-R2","BottomLayer","CP_16_22_ADI","31.7750","28.4750","270","Low Power, 3.6 MHz, Low Noise, Rail-to-Rail Output, Operational Amplifiers. Equivalent to -R7 version"
+"J1","Molex 5017459901 (plug)","BottomLayer","Molex_5017459901_(plug)-Footprint-1","30.0000","34.7500","90","SlimStack Board-to-Board Plug, 0.40mm Pitch, J-Bend Series, 2.00 or 2.30mm Mated Height, 3.40 or 4.20mm Mated Width, 12 Circuits"

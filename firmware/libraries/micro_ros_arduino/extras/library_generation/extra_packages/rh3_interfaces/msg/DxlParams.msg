@@ -1,0 +1,12 @@
+bool apply_to_id
+bool apply_to_chain
+bool apply_all
+uint8 id
+string chain_label
+int16 min_pos
+int16 max_pos
+int16 profile_v
+int16 profile_a
+int16 p_gain
+int16 i_gain
+int16 d_gain

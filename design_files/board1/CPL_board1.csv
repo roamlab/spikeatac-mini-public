@@ -1,0 +1,45 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\spikeatac_mini_rigid_v3_board1\Project Outputs for spikeatac_mini_rigid_v3_board1\Pick Place for PCB_board1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       26/07/26
+Time:       15:42
+Revision:   4022a204fb97769054d9a423ca116eaefd35467d
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"C10","Capacitor 100nF +/-20% 25V 0402","BottomLayer","CAPC0402(1005)60_L","32.4500","38.6750","90","Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"
+"R3","RC0201FR-0710KL","TopLayer","RESC0603X26N","31.0250","38.6125","270","10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
+"C11","Capacitor 100nF +/-20% 25V 0402","BottomLayer","CAPC0402(1005)60_L","27.7750","31.7250","90","Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"
+"C9","Capacitor 100nF +/-20% 25V 0402","BottomLayer","CAPC0402(1005)60_L","32.7250","31.5000","270","Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"
+"R12","RC0201FR-0710KL","TopLayer","RESC0603X26N","30.9500","30.3375","90","10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
+"R11","RC0201FR-0710KL","TopLayer","RESC0603X26N","28.8000","39.2125","270","10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
+"R4","RC0201FR-0710KL","TopLayer","RESC0603X26N","30.0375","31.3000","180","10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
+"R16","RC0201FR-0710KL","BottomLayer","RESC0603X26N","28.0500","34.5125","90","10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
+"R15","RC0201FR-0710KL","TopLayer","RESC0603X26N","28.0500","39.7575","270","10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
+"R8","RC0201FR-0710KL","TopLayer","RESC0603X26N","33.8125","33.0250","180","10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
+"R7","RC0201FR-0710KL","TopLayer","RESC0603X26N","33.4500","36.6125","90","10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
+"C12","Capacitor 100nF +/-20% 25V 0402","BottomLayer","CAPC0402(1005)60_L","27.7500","38.8000","90","Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"
+"U2","LTC6242IDHCPBF","BottomLayer","LTC6242IDHCPBF_ADI","30.1000","31.8750","180","Quad 18MHz, Low Noise, Rail-to-Rail Output, CMOS Op Amp"
+"R14","HVCB0603JDD1G00","TopLayer","RESC1607X51N","25.6000","26.8500","90","1 GOhms ±5% 0.06W Chip Resistor 0603 (1608 Metric) High Voltage, Moisture Resistant, Pulse Withstanding Thick Film"
+"R10","HVCB0603JDD1G00","TopLayer","RESC1607X51N","34.4250","26.9000","90","1 GOhms ±5% 0.06W Chip Resistor 0603 (1608 Metric) High Voltage, Moisture Resistant, Pulse Withstanding Thick Film"
+"R6","HVCB0603JDD1G00","TopLayer","RESC1607X51N","34.2500","29.7500","90","1 GOhms ±5% 0.06W Chip Resistor 0603 (1608 Metric) High Voltage, Moisture Resistant, Pulse Withstanding Thick Film"
+"R2","HVCB0603JDD1G00","TopLayer","RESC1607X51N","26.1250","30.3750","90","1 GOhms ±5% 0.06W Chip Resistor 0603 (1608 Metric) High Voltage, Moisture Resistant, Pulse Withstanding Thick Film"
+"C8","1.5pF Embedded Planar Capacitor","TopLayer","1.5pF_Embedded_Planar_Capacitor-Footprint-1","27.5250","26.5250","0","1.5pF capacitor between two layers of PCB. On a 4 layer board, place between layers 1/2 or 3/4. 1.5pF calculated for prepreg JLC04161H-1080"
+"C7","1.5pF Embedded Planar Capacitor","TopLayer","1.5pF_Embedded_Planar_Capacitor-Footprint-1","28.1000","43.1750","0","1.5pF capacitor between two layers of PCB. On a 4 layer board, place between layers 1/2 or 3/4. 1.5pF calculated for prepreg JLC04161H-1080"
+"C6","1.5pF Embedded Planar Capacitor","TopLayer","1.5pF_Embedded_Planar_Capacitor-Footprint-1","32.3000","26.6250","0","1.5pF capacitor between two layers of PCB. On a 4 layer board, place between layers 1/2 or 3/4. 1.5pF calculated for prepreg JLC04161H-1080"
+"C5","1.5pF Embedded Planar Capacitor","BottomLayer","1.5pF_Embedded_Planar_Capacitor-Footprint-1","28.1000","43.1750","180","1.5pF capacitor between two layers of PCB. On a 4 layer board, place between layers 1/2 or 3/4. 1.5pF calculated for prepreg JLC04161H-1080"
+"C4","1.5pF Embedded Planar Capacitor","TopLayer","1.5pF_Embedded_Planar_Capacitor-Footprint-1","32.4250","30.1000","0","1.5pF capacitor between two layers of PCB. On a 4 layer board, place between layers 1/2 or 3/4. 1.5pF calculated for prepreg JLC04161H-1080"
+"C2","1.5pF Embedded Planar Capacitor","TopLayer","1.5pF_Embedded_Planar_Capacitor-Footprint-1","27.9000","30.2500","0","1.5pF capacitor between two layers of PCB. On a 4 layer board, place between layers 1/2 or 3/4. 1.5pF calculated for prepreg JLC04161H-1080"
+"C1","1.5pF Embedded Planar Capacitor","BottomLayer","1.5pF_Embedded_Planar_Capacitor-Footprint-1","31.9500","43.1750","0","1.5pF capacitor between two layers of PCB. On a 4 layer board, place between layers 1/2 or 3/4. 1.5pF calculated for prepreg JLC04161H-1080"
+"R13","HVCB0603JDD1G00","TopLayer","RESC1607X51N","27.9500","41.5500","0","1 GOhms ±5% 0.06W Chip Resistor 0603 (1608 Metric) High Voltage, Moisture Resistant, Pulse Withstanding Thick Film"
+"R1","HVCB0603JDD1G00","BottomLayer","RESC1607X51N","32.0000","41.5500","180","1 GOhms ±5% 0.06W Chip Resistor 0603 (1608 Metric) High Voltage, Moisture Resistant, Pulse Withstanding Thick Film"
+"R5","HVCB0603JDD1G00","TopLayer","RESC1607X51N","32.0000","41.5500","180","1 GOhms ±5% 0.06W Chip Resistor 0603 (1608 Metric) High Voltage, Moisture Resistant, Pulse Withstanding Thick Film"
+"R9","HVCB0603JDD1G00","BottomLayer","RESC1607X51N","27.9000","41.5500","0","1 GOhms ±5% 0.06W Chip Resistor 0603 (1608 Metric) High Voltage, Moisture Resistant, Pulse Withstanding Thick Film"
+"U1","LTC6242IDHCPBF","BottomLayer","LTC6242IDHCPBF_ADI","30.1000","38.2751","180","Quad 18MHz, Low Noise, Rail-to-Rail Output, CMOS Op Amp"
+"J2","Molex 513389974 (receptacle)","TopLayer","Molex_513389974-Footprint-1","30.0000","34.7500","270","SlimStack Board-to-Board Receptacle, 0.40mm Pitch, J-Bend Series, 0.20�m Gold (Au) Plating, 1.50 or 2.00mm Mated Height, 3.40mm Mated Width, 12 Circuits"
+"J1","FH34SRJ-9S-0.5SH(50)","BottomLayer","HRS_FH34SRJ-9S-0.5SH(50)","30.0000","27.1000","180","9 Position FFC, FPC Connector Contacts, Top and Bottom 0.020 (0.50mm) Surface Mount, Right Angle"
+"C3","1.5pF Embedded Planar Capacitor","TopLayer","1.5pF_Embedded_Planar_Capacitor-Footprint-1","31.9500","43.1750","180","1.5pF capacitor between two layers of PCB. On a 4 layer board, place between layers 1/2 or 3/4. 1.5pF calculated for prepreg JLC04161H-1080"

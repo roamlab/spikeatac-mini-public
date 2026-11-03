@@ -1,0 +1,63 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\spikeatac_mini_controller_v1\Project Outputs for spikeatac_mini_controller_v1\Pick Place for PCB1_control_board.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       13/05/26
+Time:       20:58
+Revision:   041a1208db55849929bd5843b954f3589ec885d7
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"U1","LM1117IMPX-5.0","BottomLayer","SOT230P700X180-4N","41.0000","65.0000","270","800-mA 15-V linear voltage regulator"
+"U3","LT1964ES5-5#TRPBF","BottomLayer","SOT-5_S","40.9500","46.8500","90","200mA, Low Noise, Low Dropout Negative Micropower Regulator"
+"U2","TLV70433DBVR","BottomLayer","SOT95P280X145-5N","41.0000","54.0000","270","150-mA 24-V ultra-low-IQ low-dropout (LDO) voltage regulator"
+"R8","100","TopLayer","RESC0402(1005)_L","35.9750","22.2250","0","100R 0.063W 1% 0402 (1005 Metric)  SMD"
+"R5","100","TopLayer","RESC0402(1005)_L","46.0000","62.9250","180","100R 0.063W 1% 0402 (1005 Metric)  SMD"
+"R1","100","TopLayer","RESC0402(1005)_L","35.8500","19.8250","0","100R 0.063W 1% 0402 (1005 Metric)  SMD"
+"R2","100","TopLayer","RESC0402(1005)_L","36.1500","62.8250","180","100R 0.063W 1% 0402 (1005 Metric)  SMD"
+"R6","100","TopLayer","RESC0402(1005)_L","36.5250","32.4500","180","100R 0.063W 1% 0402 (1005 Metric)  SMD"
+"R10","100","TopLayer","RESC0402(1005)_L","36.0000","24.8500","0","100R 0.063W 1% 0402 (1005 Metric)  SMD"
+"R7","100","TopLayer","RESC0402(1005)_L","44.8500","19.6250","0","100R 0.063W 1% 0402 (1005 Metric)  SMD"
+"R11","100","TopLayer","RESC0402(1005)_L","36.2000","65.5000","180","100R 0.063W 1% 0402 (1005 Metric)  SMD"
+"R12","100","TopLayer","RESC0402(1005)_L","46.0000","60.3250","0","100R 0.063W 1% 0402 (1005 Metric)  SMD"
+"R13","100","TopLayer","RESC0402(1005)_L","45.9500","57.7750","0","100R 0.063W 1% 0402 (1005 Metric)  SMD"
+"R15","100","TopLayer","RESC0402(1005)_L","45.2250","29.8500","0","100R 0.063W 1% 0402 (1005 Metric)  SMD"
+"R14","100","TopLayer","RESC0402(1005)_L","45.2500","27.4250","0","100R 0.063W 1% 0402 (1005 Metric)  SMD"
+"R9","100","TopLayer","RESC0402(1005)_L","36.0750","68.0000","180","100R 0.063W 1% 0402 (1005 Metric)  SMD"
+"R4","100","TopLayer","RESC0402(1005)_L","36.4750","35.0250","0","100R 0.063W 1% 0402 (1005 Metric)  SMD"
+"R22","Resistor 10K  +/-1 % 0402 63 mW","TopLayer","RESC0402(1005)_L","56.9250","63.8000","270","Chip Resistor, 10 kOhms, +/-1 %, 63 mW, -55 to 125 degC, 0402"
+"R24","Resistor 10K  +/-1 % 0402 63 mW","TopLayer","RESC0402(1005)_L","59.6500","63.8500","270","Chip Resistor, 10 kOhms, +/-1 %, 63 mW, -55 to 125 degC, 0402"
+"R27","Resistor 10K  +/-1 % 0402 63 mW","TopLayer","RESC0402(1005)_L","21.6500","42.6750","90","Chip Resistor, 10 kOhms, +/-1 %, 63 mW, -55 to 125 degC, 0402"
+"R25","Resistor 10K  +/-1 % 0402 63 mW","TopLayer","RESC0402(1005)_L","24.7500","42.6500","90","Chip Resistor, 10 kOhms, +/-1 %, 63 mW, -55 to 125 degC, 0402"
+"R21","Resistor 10K  +/-1 % 0402 63 mW","TopLayer","RESC0402(1005)_L","58.6500","43.2000","270","Chip Resistor, 10 kOhms, +/-1 %, 63 mW, -55 to 125 degC, 0402"
+"R18","Resistor 10K  +/-1 % 0402 63 mW","TopLayer","RESC0402(1005)_L","57.1000","22.0000","270","Chip Resistor, 10 kOhms, +/-1 %, 63 mW, -55 to 125 degC, 0402"
+"R19","Resistor 10K  +/-1 % 0402 63 mW","TopLayer","RESC0402(1005)_L","56.0250","43.1750","270","Chip Resistor, 10 kOhms, +/-1 %, 63 mW, -55 to 125 degC, 0402"
+"R20","Resistor 10K  +/-1 % 0402 63 mW","TopLayer","RESC0402(1005)_L","57.3000","43.2000","270","Chip Resistor, 10 kOhms, +/-1 %, 63 mW, -55 to 125 degC, 0402"
+"R17","Resistor 10K  +/-1 % 0402 63 mW","TopLayer","RESC0402(1005)_L","55.6000","22.0000","270","Chip Resistor, 10 kOhms, +/-1 %, 63 mW, -55 to 125 degC, 0402"
+"R16","Resistor 10K  +/-1 % 0402 63 mW","TopLayer","RESC0402(1005)_L","54.1000","22.0000","270","Chip Resistor, 10 kOhms, +/-1 %, 63 mW, -55 to 125 degC, 0402"
+"R26","Resistor 10K  +/-1 % 0402 63 mW","TopLayer","RESC0402(1005)_L","23.1750","42.7000","90","Chip Resistor, 10 kOhms, +/-1 %, 63 mW, -55 to 125 degC, 0402"
+"R3","Resistor 1k +/-1% 0402 100 mW","TopLayer","RESC1005X40X25ML05T05","28.5500","60.0000","0","Chip Resistor, 1 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0402 (1005 Metric)"
+"R23","Resistor 10K  +/-1 % 0402 63 mW","TopLayer","RESC0402(1005)_L","58.3000","63.8250","270","Chip Resistor, 10 kOhms, +/-1 %, 63 mW, -55 to 125 degC, 0402"
+"MH4","M2 mounting hole","TopLayer","M2_mounting_hole-Footprint-1","61.0000","21.0000","0","Mounting hole for an M2 screw"
+"MH3","M2 mounting hole","TopLayer","M2_mounting_hole-Footprint-1","21.0000","21.0000","0","Mounting hole for an M2 screw"
+"MH2","M2 mounting hole","TopLayer","M2_mounting_hole-Footprint-1","61.0000","78.0000","0","Mounting hole for an M2 screw"
+"MH1","M2 mounting hole","TopLayer","M2_mounting_hole-Footprint-1","21.0000","78.0000","0","Mounting hole for an M2 screw"
+"MD1","DEV-16996","TopLayer","FP-DEV-16996-MFG","41.0000","49.0000","270","Teensy 4.1 on standard female headers"
+"Jump1","TH Jumper","TopLayer","TH_Jumper-Footprint-1","41.0000","76.0000","90","Through hole jumper to be used with 2 pin header"
+"J6","BM10B-SRSS-TB(LF)(SN)","TopLayer","JST_BM10B-SRSS-TB(LF)(SN)","55.5125","71.2000","90","Connector Header Surface Mount 10 position 0.039" (1.00mm)"
+"J1","1729128","TopLayer","PHOE-1729128-2_V","26.0000","69.0000","90","PCB Terminal Block, 13.5 A, 400 V, 2-Pin THD, RoHS, Bulk"
+"J2","1729128","TopLayer","PHOE-1729128-2_V","26.0000","51.4600","270","PCB Terminal Block, 13.5 A, 400 V, 2-Pin THD, RoHS, Bulk"
+"J4","BM10B-SRSS-TB(LF)(SN)","TopLayer","JST_BM10B-SRSS-TB(LF)(SN)","55.5125","51.0000","90","Connector Header Surface Mount 10 position 0.039" (1.00mm)"
+"J5","BM10B-SRSS-TB(LF)(SN)","TopLayer","JST_BM10B-SRSS-TB(LF)(SN)","23.1625","33.0000","270","Connector Header Surface Mount 10 position 0.039" (1.00mm)"
+"J3","BM10B-SRSS-TB(LF)(SN)","TopLayer","JST_BM10B-SRSS-TB(LF)(SN)","55.5125","30.6250","90","Connector Header Surface Mount 10 position 0.039" (1.00mm)"
+"DS1","TLMS1100-GS08","TopLayer","VISH-TLMX1100_V","24.5250","60.0250","180","Red Led, 20mA, 2.1 V, -40 to 100 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"
+"C2","TR3A106K016C1700","BottomLayer","VISH-TR3-A_V","39.6000","71.8000","180","Solid Tantalum Surface Mount Chip Capacitor, TANTAMOUNT(TM), Molded Case, Low ESR, 10 uF, +/- 10%, 16 V, -55 to 125 degC, 1206 (3216 Metric), RoHS, Tape and Reel"
+"C1","TR3A106K016C1700","BottomLayer","VISH-TR3-A_V","46.0000","69.7500","90","Solid Tantalum Surface Mount Chip Capacitor, TANTAMOUNT(TM), Molded Case, Low ESR, 10 uF, +/- 10%, 16 V, -55 to 125 degC, 1206 (3216 Metric), RoHS, Tape and Reel"
+"C5","Capacitor 1µF +/-20% 10V 0402","BottomLayer","CAPC0402(1005)60_L","41.3500","43.9500","0","Chip Capacitor, 1µF +/-20%, 10V, 0402, Thickness 0.6 mm"
+"C6","Capacitor 10µF +/-40% 6.3V 0402","BottomLayer","CAPC0402(1005)60_L","43.7000","46.9750","270","Chip Capacitor, 10µF +/-40%, 6.3V, 0402, Thickness 0.6 mm"
+"C7","Capacitor 10nF +/-20% 50V 0402","BottomLayer","CAPC0402(1005)60_L","38.0250","46.1000","270","Chip Capacitor, 10nF +/-20%, 50V, 0402, Thickness 0.6 mm"
+"C3","CL05B104KO5NNNC","BottomLayer","CAPC1050X55X23ML05T13","40.1250","57.3750","0","Ceramic Capacitor, Multilayer, Ceramic, 16V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0402"
+"C4","CL05A105KA5NQNC","BottomLayer","CAPC1050X55X23NL05T13","43.9250","56.5750","180","Cap Ceramic 1uF 25V X5R ±10% SMD 0402 +85°C Paper T/R"

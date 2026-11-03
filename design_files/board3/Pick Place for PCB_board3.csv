@@ -1,0 +1,23 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\spikeatac_mini_rigid_v3_board3\Project Outputs for spikeatac_mini_rigid_v3_board3\Pick Place for PCB_board3.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       26/07/26
+Time:       15:06
+Revision:   b8567ba3fb748fd9dc65fa65b40cde57f1bc4188
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"TP2","test point (exposed pad)","TopLayer","testpoint","31.6000","26.1000","90","test point as a 1x1mm exposed pad"
+"TP1","test point (exposed pad)","TopLayer","testpoint","33.7000","26.1000","90","test point as a 1x1mm exposed pad"
+"C3","CL03A104KP3NNNC","TopLayer","CAPC0603X33N","25.1000","26.5000","270","0.1 µF ±10% 10V Ceramic Capacitor X5R 0201 (0603 Metric)"
+"U2","MC3479","TopLayer","PQFN50P200X200X100-12N","26.9500","26.8000","180","Accelerometers Small Digital 3-axis Accelerometer Senso"
+"C2","CL03A104KP3NNNC","BottomLayer","CAPC0603X33N","33.0750","39.6000","270","0.1 µF ±10% 10V Ceramic Capacitor X5R 0201 (0603 Metric)"
+"C1","CL03A104KP3NNNC","BottomLayer","CAPC0603X33N","33.1750","40.8250","90","0.1 µF ±10% 10V Ceramic Capacitor X5R 0201 (0603 Metric)"
+"U1","AD7147ACPZ-REEL","BottomLayer","CP-24-3_L","30.2250","40.5500","270","IC CAP TO DGT 16BIT 250K 24LFCSP"
+"J3","Molex 5017459901 (plug)","BottomLayer","Molex_5017459901_(plug)-Footprint-1","30.0000","34.7500","270","SlimStack Board-to-Board Plug, 0.40mm Pitch, J-Bend Series, 2.00 or 2.30mm Mated Height, 3.40 or 4.20mm Mated Width, 12 Circuits"
+"J2","FH34SRJ-5S-0.5SH(50)","BottomLayer","HRS_FH34SRJ-5S-0.5SH(50)","30.0000","27.1000","180","5 Position FFC, FPC Connector Contacts, Top and Bottom 0.020 (0.50mm) Surface Mount, Right Angle"
+"J1","BM10B-SRSS-TB(LF)(SN)","TopLayer","JST_BM10B-SRSS-TB(LF)(SN)","30.5125","35.0000","90","Connector Header Surface Mount 10 position 0.039" (1.00mm)"

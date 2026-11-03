@@ -1,0 +1,23 @@
+services:
+  spikeatac-mini:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+      args:
+        - USER_ID=${USER_ID:-1000}
+        - GROUP_ID=${GROUP_ID:-1000}
+    image: spikeatac-mini:humble
+    container_name: spikeatac-mini
+    environment:
+      - DISPLAY=${DISPLAY}
+      - QT_X11_NO_MITSHM=1
+    volumes:
+      - /tmp/.X11-unix:/tmp/.X11-unix:rw
+      - ..:/work:rw
+      - /dev:/dev:rw  # for hardware access (serial/USB to the Teensy)
+      - ${HOME}/.config/PlotJuggler:/home/dockeruser/.config/PlotJuggler
+    network_mode: host
+    privileged: true
+    stdin_open: true
+    tty: true
+    working_dir: /work

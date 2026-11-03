@@ -1,0 +1,40 @@
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env
+.cache
+.mypy_cache
+.pytest_cache
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# This repo's large binary/design assets -- not needed in the build context
+design_files/
+jlcpcb_screenshots/
+*.zip
+*.xlsx
+*.csv
+*.mp4
+*.png
+*.jpg

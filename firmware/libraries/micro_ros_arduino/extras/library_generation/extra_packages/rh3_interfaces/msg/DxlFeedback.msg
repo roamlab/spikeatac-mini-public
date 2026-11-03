@@ -1,0 +1,3 @@
+std_msgs/Int16MultiArray loads
+std_msgs/Int16MultiArray velocities
+std_msgs/Int16MultiArray positions
